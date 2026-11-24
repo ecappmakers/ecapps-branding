@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <defs>
+    <linearGradient id="gradEc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3f6ad8" />
+      <stop offset="100%" stop-color="#16aaff" />
+    </linearGradient>
+  </defs>
+  <rect x="10" y="15" width="70" height="70" rx="16" fill="url(#gradEc)" />
+  <path d="M30 35 H60 M30 50 H52 M30 65 H60" stroke="#ffffff" stroke-width="6" stroke-linecap="round" />
+  <text x="100" y="62" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" fill="#2d3748">
+    ec<tspan fill="#3f6ad8">apps</tspan>
+  </text>
+  <text x="210" y="62" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="600" fill="#a0aec0">
+    MAKERS
+  </text>
+</svg>

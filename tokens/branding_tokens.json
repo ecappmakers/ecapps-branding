@@ -1,0 +1,51 @@
+{
+  "system": "EC Apps Unified Design System",
+  "version": "1.0.0",
+  "palette": {
+    "primary": "#3f6ad8",
+    "secondary": "#6c757d",
+    "success": "#3ac47d",
+    "info": "#16aaff",
+    "warning": "#f7b924",
+    "danger": "#d92550",
+    "light": "#f8f9fa",
+    "dark": "#343a40"
+  },
+  "products": {
+    "ecapps": {
+      "brand_color": "#3f6ad8",
+      "accent_color": "#16aaff",
+      "logo": "logos/ecapps-logo.svg"
+    },
+    "inv8": {
+      "brand_color": "#e056fd",
+      "accent_color": "#ff7979",
+      "logo": "logos/inv8-logo.svg"
+    },
+    "short_link": {
+      "brand_color": "#10ac84",
+      "accent_color": "#1dd1a1",
+      "logo": "logos/shlk-logo.svg"
+    },
+    "pos": {
+      "brand_color": "#ff9f43",
+      "accent_color": "#ee5253",
+      "logo": "logos/pos-logo.svg"
+    },
+    "masterflow": {
+      "brand_color": "#2e86de",
+      "accent_color": "#54a0ff",
+      "logo": "logos/masterflow-logo.svg"
+    },
+    "friends_electricals": {
+      "brand_color": "#f39c12",
+      "accent_color": "#e67e22",
+      "logo": "logos/friends-electricals-logo.svg"
+    },
+    "pixos": {
+      "brand_color": "#8854d0",
+      "accent_color": "#a55eea",
+      "logo": "logos/pixos-logo.svg"
+    }
+  }
+}

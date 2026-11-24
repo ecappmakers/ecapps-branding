@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 100" width="370" height="100">
+  <defs>
+    <linearGradient id="gradStore" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10ac84" />
+      <stop offset="100%" stop-color="#1dd1a1" />
+    </linearGradient>
+  </defs>
+  <rect x="10" y="15" width="70" height="70" rx="16" fill="url(#gradStore)" />
+  <path d="M30 40 H60 L55 65 H35 Z" stroke="#ffffff" stroke-width="4" fill="none" stroke-linejoin="round" />
+  <path d="M38 40 V34 C38 30 42 26 45 26 C48 26 52 30 52 34 V40" stroke="#ffffff" stroke-width="4" fill="none" stroke-linecap="round" />
+  <text x="100" y="62" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="40" font-weight="900" fill="#2d3748">
+    EC <tspan fill="#10ac84">Store</tspan>
+  </text>
+  <text x="250" y="62" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="600" fill="#a0aec0">
+    COMMERCE
+  </text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" width="420" height="100">
+  <defs>
+    <linearGradient id="gradAccounts" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3c72" />
+      <stop offset="100%" stop-color="#2a5298" />
+    </linearGradient>
+  </defs>
+  <rect x="10" y="15" width="70" height="70" rx="16" fill="url(#gradAccounts)" />
+  <path d="M45 28 L60 34 V48 C60 58 45 68 45 68 C45 68 30 58 30 48 V34 Z" stroke="#ffffff" stroke-width="4" fill="none" stroke-linejoin="round" />
+  <circle cx="45" cy="44" r="5" fill="#ffffff" />
+  <path d="M45 49 V56" stroke="#ffffff" stroke-width="4" stroke-linecap="round" />
+  <text x="100" y="62" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="900" fill="#2d3748">
+    ec<tspan fill="#2a5298">accounts</tspan>
+  </text>
+  <text x="285" y="62" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="600" fill="#718096">
+    IDENTITY
+  </text>
+</svg>

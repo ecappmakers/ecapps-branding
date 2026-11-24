@@ -1,0 +1,30 @@
+{
+  "name": "@ecappmakers/branding",
+  "version": "1.0.0",
+  "description": "Centralized Design Tokens, Logos, and Product Branding Registry for EC APPS",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js",
+      "default": "./src/index.ts"
+    },
+    "./logos/*": "./logos/*",
+    "./tokens/*": "./tokens/*"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecappmakers/ecapps-branding.git"
+  },
+  "author": "EC APPS",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
